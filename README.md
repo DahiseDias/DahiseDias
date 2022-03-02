@@ -1,5 +1,4 @@
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-     src=https://i.pinimg.com/originals/ca/2c/b6/ca2cb65c5e194793ea50ee3fc21328ed.gif>
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DahiseDias&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
